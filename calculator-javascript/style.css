@@ -1,0 +1,37 @@
+input {
+    width: 150px;
+    height: 100px;
+    font-size: 75px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #8B8A8A;
+    color: #fff;
+    border-style: none;
+  }
+  #calculator {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+.multiply{
+    background-color: #F18C1C;
+  }
+.addition{
+    background-color: #68E52B;
+  }
+.subtract{
+    background-color: #9776F9;
+}
+.division{
+    background-color: #498BE1;
+}
+.reset{
+    background-color: #C70039;
+}
+.numberfield{
+    width: 675px;
+    height: 1--px;
+    text-align: center;
+    background-color: #f7f7f7; 
+    color: #222;
+}
